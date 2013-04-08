@@ -1,0 +1,3 @@
+src1 = 'bomb1'
+src11 = Split(src1)
+Program('bomb1', src11)
