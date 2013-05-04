@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qep.c
+	"qep_pkg.h"
+
+1354133832 g:\git_up\statemachine\ex1\uhook\qep\source\qep_pkg.h
+	"qep_port.h"
+	"qs_port.h"
+	"qs_dummy.h"
+
+1354133830 g:\git_up\statemachine\ex1\uhook\include\qep_port.h
+	<stdint.h>
+	"qep.h"
+
+1354133826 g:\git_up\statemachine\ex1\uhook\include\qep.h
+	"qevt.h"
+
+1354133826 g:\git_up\statemachine\ex1\uhook\include\qevt.h
+
+1354133826 g:\git_up\statemachine\ex1\uhook\include\qs_dummy.h
+
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qfsm_dis.c
+	"qep_pkg.h"
+	"qassert.h"
+
+1354133826 g:\git_up\statemachine\ex1\uhook\include\qassert.h
+
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qfsm_ini.c
+	"qep_pkg.h"
+	"qassert.h"
+
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qhsm_dis.c
+	"qep_pkg.h"
+	"qassert.h"
+
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qhsm_in.c
+	"qep_pkg.h"
+	"qassert.h"
+
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qhsm_ini.c
+	"qep_pkg.h"
+	"qassert.h"
+
+1354133832 source:g:\git_up\statemachine\ex1\uhook\qep\source\qhsm_top.c
+	"qep_pkg.h"
+
+1354133822 source:g:\git_up\statemachine\ex1\uhook\hook.c
+	"qep_port.h"
+	"qassert.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
