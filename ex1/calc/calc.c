@@ -59,6 +59,7 @@ QState Calc_on(Calc *me, QEvt const *e) {
             return Q_TRAN(&Calc_ready);
         }
         case C_SIG: {
+            BSP_clear();
             return Q_TRAN(&Calc_on);
         }
         case OFF_SIG: {
